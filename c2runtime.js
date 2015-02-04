@@ -31945,7 +31945,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.Angle,
 	cr.system_object.prototype.exps.floor,
 	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
-	cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
 	cr.plugins_.Sprite.prototype.cnds.CompareInstanceVar,
 	cr.system_object.prototype.cnds.Every,
 	cr.plugins_.Text.prototype.acts.SetText,
